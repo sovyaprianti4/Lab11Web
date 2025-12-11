@@ -4,4 +4,4 @@
 ## Kelas : TI.24.A4
 ## Mata Kuliah : Pemrograman Web 1
 
-## <img width="1920" height="1200" alt="Screenshot 2025-12-11 134624" src="https://github.com/user-attachments/assets/cfee2b45-a1b5-445d-8a51-61737c31c412" />
+## <img width="1920" height="1200" alt="Screenshot 2025-12-11 134611" src="https://github.com/user-attachments/assets/65816812-f826-4991-8975-f348705ba3d2" />
